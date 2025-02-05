@@ -2,21 +2,21 @@
 	<div class="abo-box-1">
 		<div class="abo-text-1">Company Profile</div>
 		<div class="abo-text-2">
-			Our company is a professional IT data consulting and service provider
-			dedicated to offering users high-quality information products, consulting,
-			and services. Established in Shanghai in 2015, Jinmu Information has set
-			up branches in Beijing, Shenzhen, and Guangzhou.
+			A technology - driven enterprise that is dedicated to providing next - generation cloud computing products, 
+			CDN acceleration products, and security products. The company adheres steadfastly to the principle of creating 
+			value for customers and helping them reduce costs. Upholding the core values of "Customers First, Openness and Transparency, 
+			and Win - Win Cooperation", it takes "becoming a digital service provider for customers" as its corporate mission. 
+			By joining hands with a diverse array of upstream partners, 
+			the company is committed to offering stable and highly efficient services to a wide spectrum of clients.
 		</div>
 		<div class="abo-text-2">
-			Jinmu Information is a core partner of MongoDB in North Asia and a key
-			partner of Akamai, Zendesk, Vonage, and Splunk in China, providing clients
-			with professional technical services, consulting, and application
-			development.
+			Our company is a key partner of Akamai, AWS, Conversant in China, providing clients
+			with professional technical services, consulting, and application development.
 		</div>
 		<div class="abo-text-2">
 			We serve over 80 top-tier clients in industries such as finance,
 			insurance, securities, gaming, and e-commerce, with sales operations
-			covering mainland China and Hong Kong. In 2020, we developed our own
+			covering mainland China and Hong Kong. In 2024, we developed our own
 			products and initiated external corporate technical training.
 		</div>
 		<div class="abo-box-2">
@@ -27,8 +27,7 @@
 				<div class="abo-box-3">
 					<div class="abo-text-3">Our products are reliable.</div>
 					<div class="abo-text-2">
-						Jinmu Information is a core partner of Akamai, MongoDB, Zendesk,
-						Vonage, and Splunk, offering clients professional technical
+						Our company is a core partner of Akamai, AWS, Conversant,offering clients professional technical
 						services, consulting, and application development with reliable
 						products.
 					</div>
@@ -55,7 +54,7 @@
 				<div class="abo-box-3">
 					<div class="abo-text-3">Standardization and Normalization</div>
 					<div class="abo-text-2">
-						Jinmu Information developed its own products in 2020 and conducted
+						Our company developed its own products in 2020 and conducted
 						external technical training for enterprises.
 					</div>
 				</div>
@@ -83,7 +82,7 @@
 						Serving Over 80 Leading Clients in Various Industries
 					</div>
 					<div class="abo-text-2">
-						Jinmu Information serves over 80 leading clients in industries such
+						Our company serves over 80 leading clients in industries such
 						as finance, insurance, securities, gaming, e-commerce, and more.
 					</div>
 				</div>

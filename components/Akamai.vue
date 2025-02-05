@@ -155,6 +155,7 @@
 .akamai-text-3 {
 	margin-bottom: 10px;
 	line-height: 1.5rem;
+	color:black;
 }
 
 .akamai-content-2 {

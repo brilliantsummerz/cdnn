@@ -9,12 +9,7 @@
 <template>
 	<div>
 		<div class="navbar">
-			<div class="navbar-logo" @click="goHome">
-				<img
-					src="https://img1.baidu.com/it/u=1180211537,1318243307&fm=253&fmt=auto&app=120&f=JPEG?w=400&h=400"
-					alt="MyApp Logo"
-					class="logo"
-				/>
+			<div class="navbar-logo" @click="goHome" display="none">
 			</div>
 			<div class="navbar-menu">
 				<div
@@ -58,7 +53,7 @@
 		<!-- Router View -->
 		<router-view></router-view>
 		<footer class="footer">
-			<p>&copy; 2025 CDN. All rights reserved.</p>
+			<p>© CopyRight 2025, WWW.NETSPEED.CLOUD, Inc.All Rights Reserved.</p> <p>&nbsp;TEL:281-8573650&nbsp;Email:Riking218@outlook.com</p>
 		</footer>
 	</div>
 </template>
@@ -83,7 +78,6 @@ export default {
 							title: "Content Delivery Network",
 							list: [
 								{ label: "Akamai", path: "/#/akamai" },
-								{ label: "CloudFlare", path: "/#/cloudflare" },
 								{ label: "Conversant", path: "/#/conversant" }
 							],
 							path: "/#/akamai"

@@ -265,11 +265,8 @@ export default {
 				{ label: "CDN", slot: "tab2" },
 				{ label: "Cloud Security", slot: "tab3" }
 			],
-			carouselImages: [
-				"../public/banner/1.jpg",
-				"../public/banner/2.jpg",
-				"../public/banner/3.jpg"
-			]
+			// carouselImages: ["./1.jpg", "/2.jpg", "/3.jpg"]
+			carouselImages: ["../public/1.jpg", "../public/2.jpg", "../public/3.jpg"]
 		};
 	}
 };
