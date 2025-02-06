@@ -2,7 +2,7 @@
  * @Author: zhangxm
  * @Date: 2025-02-06 01:06:51
  * @LastEditors: zhangxm
- * @LastEditTime: 2025-02-06 13:39:13
+ * @LastEditTime: 2025-02-06 14:15:40
  * @Description: file content
  * @FilePath: /cdnn/components/Baishan.vue
 -->
@@ -130,7 +130,7 @@
 			<div class="bai-text-1">Application Scenarios</div>
 			<div class="bai-item-3">
 				<div class="bai-text-2">E-commerce industry</div>
-				<div class="bai-text-3" @click="toggleContent1">
+				<div class="bai-text-3">
 					A website combined with static and dynamic content; business includes
 					website user registration, login, product browsing, promotion,
 					payment, etc. In this scenario, Baishan DCDN improves the loading
@@ -156,7 +156,7 @@
 
 			<div class="bai-item-3">
 				<div class="bai-text-2">Gaming industry</div>
-				<div class="bai-text-3" @click="toggleContent2">
+				<div class="bai-text-3">
 					support intelligent routing and transmission protocol optimization,
 					effectively reduce the transmission delay of dynamic gaming commands
 					and interactive information, support traffic control, second-level
@@ -180,7 +180,7 @@
 
 			<div class="bai-item-3">
 				<div class="bai-text-2">Financial industry</div>
-				<div class="bai-text-3" @click="toggleContent3">
+				<div class="bai-text-3">
 					By providing stable and reliable dynamic and static distribution
 					services, it not only improves the user's access experience but also
 					reduces the consumption of customer origin. By providing full-link
@@ -200,7 +200,7 @@
 
 			<div class="bai-item-3">
 				<div class="bai-text-2">Enterprise portals</div>
-				<div class="bai-text-3" @click="toggleContent4">
+				<div class="bai-text-3">
 					Forum blogs, interactive news websites, education industry, and
 					enterprise portals have rich content and diverse user behaviors. Many
 					users will visit the same news hotspot and API call simultaneously,
@@ -445,9 +445,6 @@ export default {
 	align-items: center;
 	justify-content: center;
 	margin-top: 30px;
-	overflow: hidden;
-	height: 0;
-	transition: height 0.5s ease-in-out;
 }
 
 .bai-img-4 {

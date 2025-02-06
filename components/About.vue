@@ -2,15 +2,15 @@
 	<div class="abo-box-1">
 		<div class="abo-text-1">Company Profile</div>
 		<div class="abo-text-2">
-			A technology - driven enterprise that is dedicated to providing next -
-			generation cloud computing products, CDN acceleration products, and
-			security products. The company adheres steadfastly to the principle of
-			creating value for customers and helping them reduce costs. Upholding the
-			core values of "Customers First, Openness and Transparency, and Win - Win
-			Cooperation", it takes "becoming a digital service provider for customers"
-			as its corporate mission. By joining hands with a diverse array of
-			upstream partners, the company is committed to offering stable and highly
-			efficient services to a wide spectrum of clients.
+			UTOP TECHNOLOGY INC is a technology - driven enterprise that is dedicated
+			to providing next - generation cloud computing products, CDN acceleration
+			products, and security products. The company adheres steadfastly to the
+			principle of creating value for customers and helping them reduce costs.
+			Upholding the core values of "Customers First, Openness and Transparency,
+			and Win - Win Cooperation", it takes "becoming a digital service provider
+			for customers" as its corporate mission. By joining hands with a diverse
+			array of upstream partners, the company is committed to offering stable
+			and highly efficient services to a wide spectrum of clients.
 		</div>
 		<div class="abo-text-2">
 			UTOP TECHNOLOGY INC is a key partner of Akamai, AWS, Conversant in China,

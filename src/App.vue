@@ -2,7 +2,7 @@
  * @Author: zhangxm
  * @Date: 2025-01-23 14:29:42
  * @LastEditors: zhangxm
- * @LastEditTime: 2025-02-06 01:07:59
+ * @LastEditTime: 2025-02-06 14:31:07
  * @Description: file content
  * @FilePath: /cdnn/src/App.vue
 -->
@@ -52,7 +52,7 @@
 		<!-- Router View -->
 		<router-view></router-view>
 		<footer class="footer">
-			<p>© CopyRight 2025, WWW.NETSPEED.CLOUD, Inc.All Rights Reserved.</p>
+			<p>© CopyRight 2025, UTOP TECHNOLOGY , Inc.All Rights Reserved.</p>
 			<p>&nbsp;TEL:+1-2818573650&nbsp;Email:UTOP218@Hotmail.com</p>
 		</footer>
 	</div>
