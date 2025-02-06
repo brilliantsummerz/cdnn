@@ -2,22 +2,26 @@
 	<div class="abo-box-1">
 		<div class="abo-text-1">Company Profile</div>
 		<div class="abo-text-2">
-			A technology - driven enterprise that is dedicated to providing next - generation cloud computing products, 
-			CDN acceleration products, and security products. The company adheres steadfastly to the principle of creating 
-			value for customers and helping them reduce costs. Upholding the core values of "Customers First, Openness and Transparency, 
-			and Win - Win Cooperation", it takes "becoming a digital service provider for customers" as its corporate mission. 
-			By joining hands with a diverse array of upstream partners, 
-			the company is committed to offering stable and highly efficient services to a wide spectrum of clients.
+			A technology - driven enterprise that is dedicated to providing next -
+			generation cloud computing products, CDN acceleration products, and
+			security products. The company adheres steadfastly to the principle of
+			creating value for customers and helping them reduce costs. Upholding the
+			core values of "Customers First, Openness and Transparency, and Win - Win
+			Cooperation", it takes "becoming a digital service provider for customers"
+			as its corporate mission. By joining hands with a diverse array of
+			upstream partners, the company is committed to offering stable and highly
+			efficient services to a wide spectrum of clients.
 		</div>
 		<div class="abo-text-2">
-			Our company is a key partner of Akamai, AWS, Conversant in China, providing clients
-			with professional technical services, consulting, and application development.
+			UTOP TECHNOLOGY INC is a key partner of Akamai, AWS, Conversant in China,
+			providing clients with professional technical services, consulting, and
+			application development.
 		</div>
 		<div class="abo-text-2">
 			We serve over 80 top-tier clients in industries such as finance,
 			insurance, securities, gaming, and e-commerce, with sales operations
-			covering mainland China and Hong Kong. In 2024, we developed our own
-			products and initiated external corporate technical training.
+			covering the globe. In 2024, we developed our own products and initiated
+			external corporate technical training.
 		</div>
 		<div class="abo-box-2">
 			<div class="abo-item-1">
@@ -27,9 +31,9 @@
 				<div class="abo-box-3">
 					<div class="abo-text-3">Our products are reliable.</div>
 					<div class="abo-text-2">
-						Our company is a core partner of Akamai, AWS, Conversant,offering clients professional technical
-						services, consulting, and application development with reliable
-						products.
+						UTOP TECHNOLOGY INC is a core partner of Akamai, AWS,
+						Conversant,offering clients professional technical services,
+						consulting, and application development with reliable products.
 					</div>
 				</div>
 			</div>
@@ -54,7 +58,7 @@
 				<div class="abo-box-3">
 					<div class="abo-text-3">Standardization and Normalization</div>
 					<div class="abo-text-2">
-						Our company developed its own products in 2020 and conducted
+						UTOP TECHNOLOGY INC developed its own products in 2020 and conducted
 						external technical training for enterprises.
 					</div>
 				</div>
@@ -82,8 +86,9 @@
 						Serving Over 80 Leading Clients in Various Industries
 					</div>
 					<div class="abo-text-2">
-						Our company serves over 80 leading clients in industries such
-						as finance, insurance, securities, gaming, e-commerce, and more.
+						UTOP TECHNOLOGY INC serves over 80 leading clients in industries
+						such as finance, insurance, securities, gaming, e-commerce, and
+						more.
 					</div>
 				</div>
 			</div>
@@ -94,7 +99,7 @@
 				</div>
 				<div class="abo-box-3">
 					<div class="abo-text-3">Extensive Sales Coverage</div>
-					<div class="abo-text-2">Covering mainland China and Hong Kong.</div>
+					<div class="abo-text-2">Covering the globe.</div>
 				</div>
 			</div>
 		</div>

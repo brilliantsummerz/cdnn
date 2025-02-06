@@ -2,15 +2,14 @@
  * @Author: zhangxm
  * @Date: 2025-01-23 14:29:42
  * @LastEditors: zhangxm
- * @LastEditTime: 2025-01-24 06:29:08
+ * @LastEditTime: 2025-02-06 01:07:59
  * @Description: file content
- * @FilePath: /cdn_index/src/App.vue
+ * @FilePath: /cdnn/src/App.vue
 -->
 <template>
 	<div>
 		<div class="navbar">
-			<div class="navbar-logo" @click="goHome" display="none">
-			</div>
+			<div class="navbar-logo" @click="goHome" display="none"></div>
 			<div class="navbar-menu">
 				<div
 					class="dropdown"
@@ -53,7 +52,8 @@
 		<!-- Router View -->
 		<router-view></router-view>
 		<footer class="footer">
-			<p>© CopyRight 2025, WWW.NETSPEED.CLOUD, Inc.All Rights Reserved.</p> <p>&nbsp;TEL:281-8573650&nbsp;Email:Riking218@outlook.com</p>
+			<p>© CopyRight 2025, WWW.NETSPEED.CLOUD, Inc.All Rights Reserved.</p>
+			<p>&nbsp;TEL:+1-2818573650&nbsp;Email:UTOP218@Hotmail.com</p>
 		</footer>
 	</div>
 </template>
@@ -78,7 +78,9 @@ export default {
 							title: "Content Delivery Network",
 							list: [
 								{ label: "Akamai", path: "/#/akamai" },
-								{ label: "Conversant", path: "/#/conversant" }
+								{ label: "Conversant", path: "/#/conversant" },
+								{ label: "Cloudflare", path: "/#/cloudflare" },
+								{ label: "Baishan", path: "/#/baishan" }
 							],
 							path: "/#/akamai"
 						},
@@ -141,7 +143,8 @@ export default {
 				_path === "/cloudflare" ||
 				_path === "/conversant" ||
 				_path === "/security" ||
-				_path === "/mfa"
+				_path === "/mfa" ||
+				_path === "/baishan"
 			) {
 				this.activeMenu = "Products";
 			} else if (

@@ -2,9 +2,9 @@
  * @Author: zhangxm
  * @Date: 2025-01-23 14:26:45
  * @LastEditors: zhangxm
- * @LastEditTime: 2025-01-24 06:22:57
+ * @LastEditTime: 2025-02-06 01:07:15
  * @Description: file content
- * @FilePath: /cdn_index/src/router.js
+ * @FilePath: /cdnn/src/router.js
  */
 import { createRouter, createWebHashHistory } from 'vue-router';
 
@@ -23,6 +23,7 @@ import AkamaiServices from '../components/AkamaiServices.vue';
 import Delivery from '../components/Delivery.vue';
 import Managed from '../components/Managed.vue';
 import Conversant from '../components/Conversant.vue';
+import Baishan from '../components/Baishan.vue';
 
 const routes = [
 	{ path: '/', component: Home },
@@ -39,7 +40,8 @@ const routes = [
 	{ path: '/delivery', component: Delivery },
 	{ path: '/about', component: About },
 	{ path: '/managed', component: Managed },
-	{ path: '/conversant', component: Conversant }
+	{ path: '/conversant', component: Conversant },
+	{ path: '/baishan', component: Baishan }
 ];
 
 const router = createRouter({
